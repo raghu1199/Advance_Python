@@ -1,0 +1,8 @@
+name,age,university,degree
+
+raghu,22,gec,instrumentation and control
+shabbir,22,gec,electronics and communication
+rolf,25,mit,computer science
+jose,90,oxford,computing
+Rahul,22,MIT,VLSI
+Rahul,22,MIT,VLSI
